@@ -1,4 +1,4 @@
-# dio-git-challenge
+# Repository for Dio-Git/GitHub-Challenge
 Challenge/class on Git-GitHub as part of Santander-boot-camp
 
 ## Useful links:
